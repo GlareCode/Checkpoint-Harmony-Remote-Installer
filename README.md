@@ -1,4 +1,4 @@
-# harmonyCheckPointRemoteInstall
+# Remote Install - Harmony Checkpoint
 
 Remotely install Harmony Check Point Anti Virus on an endpoint.
 
